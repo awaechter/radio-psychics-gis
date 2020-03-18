@@ -9,6 +9,7 @@ This repository contains the following:
 * __LocatingPsychicsReport.pdf__ - A full project report, also viewable at the link above
 * __LocatingPsychicsVisual.tif__ - A large layout of resultant visuals and explanation
 * __CustomDelimiter.java__ - program written specifically to turn the raw radio data into a delimited form that can be read by Excel etc. Included as a novelty
+* __RadioPsychic.gif__ - .gif file previewing maps produced
 * __Original_Data__ - Folder containing the original data I used, accessed Fall 2019
 	* __fmradio.txt__ - FM Radio data from FCC website, after processing with CustomDelimiter.java
 	* __ALLFMRadioTableWithHeaders.csv__ - Formatted table of FM Radio data
